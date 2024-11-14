@@ -3,6 +3,7 @@
     <br>
     <a target="_blank" href="https://discord.com/users/404234902574202880"><img src="https://img.shields.io/badge/%40woolyenough-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <a target="_blank" href="mailto:nuggets_stoops0z@icloud.com"><img src="https://img.shields.io/badge/public_email-249ee4?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
+    <a target="_blank" href="https://github.com/Woolyenough"><img src="https://img.shields.io/badge/github-6f1b99?style=for-the-badge&logo=github&logoColor=white" alt="E-mail" /></a>
 </p>
 
 # Hello! 👋

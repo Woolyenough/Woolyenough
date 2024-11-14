@@ -7,7 +7,7 @@
 </p>
 
 # Hello! 👋
-I am a 19-year-old Computer Science student from England.
+I'm a 19-year-old Computer Science student from England, with a passion for programming and everything tech-related!
 
 ## Languages / Software / Platforms that I use regularly:
 ![Stuff that I use regularly](https://skillicons.dev/icons?i=python,java,bash) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Software & platforms I have used/currently use](https://skillicons.dev/icons?i=pycharm,idea,clion,vscodium) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Platforms I have used/currently use](https://skillicons.dev/icons?i=raspberrypi,linux)

@@ -16,6 +16,6 @@ I am a 19-year-old Computer Science student from England.
 
 <br>
 <p align="center">
-    <img height="175" src="https://github-stats.wooly.wtf/api?username=Woolyenough&hide=stars&show_icons=true&theme=radical&hide_rank=true" alt="Woolyenough GitHub Stats" />
-    <img height="175" src="https://github-stats.wooly.wtf/api/top-langs/?username=Woolyenough&exclude_repo=github-stats&theme=radical&layout=compact" alt="Woolyenough Most Used Languages" />
+    <img height="175" src="https://github-stats.wooly.wtf/api?username=Woolyenough&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" alt="Woolyenough GitHub Stats" />
+    <img height="175" src="https://github-stats.wooly.wtf/api/top-langs/?username=Woolyenough&exclude_repo=github-stats&theme=tokyonight&layout=compact" alt="Woolyenough Most Used Languages" />
 </p>

@@ -9,12 +9,6 @@
 # Hello! 👋
 I'm a 19-year-old Computer Science student from England, with a passion for programming and everything tech-related!
 
-## Languages / Software / Platforms that I use regularly:
-![Stuff that I use regularly](https://skillicons.dev/icons?i=python,java,bash) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Software & platforms I have used/currently use](https://skillicons.dev/icons?i=pycharm,idea,clion,vscodium) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Platforms I have used/currently use](https://skillicons.dev/icons?i=raspberrypi,linux)
-
-## Currently learning:
-![Stuff that I am currently learning](https://skillicons.dev/icons?i=c,latex)
-
 <br>
 <p align="center">
     <img height="175" src="https://github-stats.wooly.wtf/api?username=Woolyenough&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" alt="Woolyenough GitHub Stats" />

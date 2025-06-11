@@ -7,7 +7,7 @@
 </p>
 
 # Hello! 👋
-I'm a 19-year-old Computer Science student from England, with a passion for programming and everything tech-related!
+I'm a 20-year-old Computer Science student from England, with a passion for programming and everything tech-related!
 
 <br>
 <p align="center">
